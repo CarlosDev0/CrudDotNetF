@@ -1,0 +1,109 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h1>Tabla de Clientes</h1>
+
+<table id="tablaCliente">
+    <thead>
+        <tr>
+            <th style="width:10%"> Id</th>
+            <th style="width:20%"> Nombre</th>
+            <th style="width:40%"> Dirección</th>
+            <th style="width:20%">  </th>
+
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+<input type="button" value="Crear Cliente Nuevo" onclick="nuevo()" />
+
+<div class="modal fade in" id="modal-Cliente" tabindex="-1" data-keyboard="false" data-backdrop="static">
+    
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">
+                        <label id="titulomensaje" class="modal-titel">Crear Cliente</label>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </h4>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group  col-md-12">
+                        <label><b>Nombres y Apellidos: </b> <span style="color:red; height:6em;">(*)</span></label><br>
+                        <input type="text" class="form-control" id="txtNombre" maxlength="100" />
+                    </div>
+                    <div class="form-group col-md-12">
+                        <label><b>Direccion: </b> <span style="color:red; height:6em;">(*)</span></label><br>
+                        <input type="text" class="form-control" id="txtdireccion" maxlength="350" />
+                    </div>
+                    
+
+
+                </div>
+                <div class="modal-footer" style="border-top: 0px;">
+                    <table class="botones-modal">
+                        <tr>
+                            <td>
+                                <input id="btnGuardarNuevoCliente" type="button" value="Agregar" class="btn btn-success" />
+                                <input id="btnCancelarNuevoCliente" type="button" value="Cancelar" class="btn btn-danger" />
+                            </td>
+                        </tr>
+                    </table>
+                    <div> <label id="txtMensaje" style="color:blueviolet"></label></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="modal fade in" id="modal-ActualizarCliente" tabindex="-1" data-keyboard="false" data-backdrop="static">
+
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">
+                    <label id="titulomensaje" class="modal-titel">Actualizar Cliente</label>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group  col-md-12">
+                    <label ><b>Id: </b> </label><br>
+                    <input type="text" disabled class="form-control" id="txtIdActualizar" maxlength="100" />
+                </div>
+                <div class="form-group  col-md-12">
+                    <label><b>Nombres y Apellidos: </b> <span style="color:red; height:6em;">(*)</span></label><br>
+                    <input type="text" class="form-control" id="txtNombreActualizar" maxlength="100" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label><b>Direccion: </b> <span style="color:red; height:6em;">(*)</span></label><br>
+                    <input type="text" class="form-control" id="txtdireccionActualizar" maxlength="350" />
+                </div>
+
+
+
+            </div>
+            <div class="modal-footer" style="border-top: 0px;">
+                <table class="botones-modal">
+                    <tr>
+                        <td>
+                            <input id="btnGuardarClienteActualizar" type="button" value="Agregar" class="btn btn-success" />
+                            <input id="btnCancelarClienteActualizar" type="button" value="Cancelar" class="btn btn-danger" />
+                        </td>
+                    </tr>
+                </table>
+                <div> <label id="txtMensajeActualizar" style="color:blueviolet"></label></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                    <script src="~/Scripts/Views/ClienteJS.js"></script>

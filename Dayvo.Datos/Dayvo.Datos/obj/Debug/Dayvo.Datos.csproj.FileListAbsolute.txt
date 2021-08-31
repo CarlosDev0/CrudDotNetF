@@ -1,0 +1,11 @@
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\bin\Debug\Dayvo.Datos.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\bin\Debug\Dayvo.Datos.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\obj\Debug\Dayvo.Datos.csproj.CoreCompileInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\obj\Debug\Dayvo.Datos.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\obj\Debug\Dayvo.Datos.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\obj\Debug\Dayvo.Datos.csproj.AssemblyReference.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\bin\Debug\Dapper.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\bin\Debug\Dayvo.DT.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\bin\Debug\Dayvo.DT.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\bin\Debug\Dapper.xml
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.Datos\Dayvo.Datos\obj\Debug\Dayvo.Datos.csproj.CopyComplete

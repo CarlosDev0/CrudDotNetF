@@ -1,0 +1,6 @@
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.DT\Dayvo.DT\bin\Debug\Dayvo.DT.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.DT\Dayvo.DT\bin\Debug\Dayvo.DT.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.DT\Dayvo.DT\obj\Debug\Dayvo.DT.csproj.AssemblyReference.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.DT\Dayvo.DT\obj\Debug\Dayvo.DT.csproj.CoreCompileInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.DT\Dayvo.DT\obj\Debug\Dayvo.DT.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetFramework\Crud1\Dayvo.DT\Dayvo.DT\obj\Debug\Dayvo.DT.pdb
